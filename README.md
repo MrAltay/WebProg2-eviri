@@ -1,4 +1,4 @@
-# WebProg2-eviri
+# WebProg2-Ceviri
 Çeviri Repo
 
 ## Çeviri Bilgileri
